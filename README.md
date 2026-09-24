@@ -2,7 +2,7 @@
 
 > 従量課金、最低 1 ドルから、OpenAI 互換エンドポイント。 **default $0.07; extend $0.07; 4K $0.57**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-6b6722) · [实时价格](https://go.apimart.ai/k-fcec85) · [获取 API Key](https://go.apimart.ai/k-d32dd4)**
 
 ## 料金（快照 2026-09-24）
 
